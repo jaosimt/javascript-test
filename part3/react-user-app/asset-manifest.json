@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-user-app/static/css/main.991412b1.chunk.css",
+    "main.js": "/react-user-app/static/js/main.26b697e2.chunk.js",
+    "main.js.map": "/react-user-app/static/js/main.26b697e2.chunk.js.map",
+    "runtime~main.js": "/react-user-app/static/js/runtime~main.8f1cd99c.js",
+    "runtime~main.js.map": "/react-user-app/static/js/runtime~main.8f1cd99c.js.map",
+    "static/css/2.711045af.chunk.css": "/react-user-app/static/css/2.711045af.chunk.css",
+    "static/js/2.90997efb.chunk.js": "/react-user-app/static/js/2.90997efb.chunk.js",
+    "static/js/2.90997efb.chunk.js.map": "/react-user-app/static/js/2.90997efb.chunk.js.map",
+    "index.html": "/react-user-app/index.html",
+    "precache-manifest.8c4396f48e6c59f93ef5abe8fbee78d3.js": "/react-user-app/precache-manifest.8c4396f48e6c59f93ef5abe8fbee78d3.js",
+    "service-worker.js": "/react-user-app/service-worker.js",
+    "static/css/2.711045af.chunk.css.map": "/react-user-app/static/css/2.711045af.chunk.css.map",
+    "static/css/main.991412b1.chunk.css.map": "/react-user-app/static/css/main.991412b1.chunk.css.map",
+    "static/media/UserDetails.scss": "/react-user-app/static/media/reset.432421d2.png",
+    "static/media/UsersList.scss": "/react-user-app/static/media/nav-next.03d394f3.png"
+  }
+}
